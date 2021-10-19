@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.box{
+    width: 80rem;
+    height: 40rem;
+    background: linear-gradient(to right, #ff6b6b, #ee5253);
+    border-radius: 2rem;  
+    font-family: 'Oswald', sans-serif;
+    font-size: 26px;
+
+}
+
+.box-2{
+    width: 80rem;
+    height: 40rem;
+    background: linear-gradient(to right, #00cec9, #81ecec);
+    border-radius: 2rem;
+    font-family: 'Oswald', sans-serif;
+    font-size: 26px;    
+    
+}
+
+.box-3{
+    width: 80rem;
+    height: 46rem;
+    background: linear-gradient(to right, #5f27cd, #341f97);
+    border-radius: 2rem;
+    font-family: 'Oswald', sans-serif;
+    font-size: 26px;   
+}
+body{
+    background: #2f3640;
+}

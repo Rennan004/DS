@@ -1,0 +1,41 @@
+body, html{
+  height: 100%;
+  overflow-x: hidden;
+  
+}
+/* configura os elementos .parallax */
+.parallax{
+  width: 100%;
+  height: 100%;
+  background-attachment: fixed !important;
+  background-size: cover !important;
+  background-position: 50% 0 !important;
+  position: relative;
+  
+}
+
+.div1{
+  background-image: url('../img/animal1.jpg');
+}
+.div2{
+  background-image: url('../img/animal2.jpg');
+}
+.div3{
+  background-image: url('../img/animal3.jpg');
+}
+.div4{
+  background-image: url('../img/animal4.jpg');
+}
+.div5{
+  background-image: url('../img/animal5.jpg');
+}
+.div6{
+  background-image: url('../img/animal6.jpg');
+
+}
+.p{
+  font-size: 16px;
+}
+#btn-menu{
+  z-index: 1;
+}
